@@ -29,14 +29,3 @@ while True:
 
     if(user_input=='Stop'):
       break 
-
-
-
-
-
-
-
-
-
-
-
